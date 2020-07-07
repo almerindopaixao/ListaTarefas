@@ -19,8 +19,9 @@ module.exports = {
     'react',
   ],
   rules: {
-    "react/jsx-filename-extension": 0,
-    "react/state-in-constructor": 0,
-    "no-console": 0
+    'react/jsx-filename-extension': 0,
+    'react/state-in-constructor': 0,
+    'no-console': 0,
+    'react/forbid-prop-types': 0,
   },
 };
